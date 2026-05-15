@@ -1,16 +1,29 @@
-## Hi there 👋
+# Andy Howells
 
-<!--
-**andyunleashed/andyunleashed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance full-stack web developer. Hampshire, UK.
 
-Here are some ideas to get you started:
+I build bespoke web platforms and business systems. One developer doing
+the work — no account managers, no junior devs deleting your database,
+no agency markup.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+- **Laravel** for the bespoke stuff Excel can't handle
+- **Shopify** for storefronts
+- - **WordPress** for content-led sites
+
+Coming up fast on 20 years writing production code, mostly PHP. The unfashionable engine
+young developers love to hate (which quietly keeps most of the internet running).
+
+### How I work
+- I pick up the phone when you call, no ticketing system
+- I discuss and quote in plain English
+- I don't juggle a dozen projects at once
+- If you don't actually need me, I'll tell you
+
+### Find me
+
+- 🌐 [unleash-it.co.uk](https://unleash-it.co.uk)
+- 📧 hello@unleash-it.co.uk
+- 📞 02380 970 430
+
+200+ projects delivered. Still answering the phone.
