@@ -1,6 +1,6 @@
 # About Me
 
-Freelance full-stack web developer. Based in Hampshire, UK.
+Full-stack web developer. Based in Hampshire, UK.
 
 I build bespoke web platforms and business systems. One developer doing
 the work — no account managers, no junior devs deleting your database,
