@@ -1,4 +1,4 @@
-# About Me
+## About Me
 
 Full-stack web developer. Based in Hampshire, UK.
 
