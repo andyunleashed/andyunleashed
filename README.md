@@ -1,15 +1,15 @@
-# Andy Howells
+# About Me
 
-Freelance full-stack web developer. Hampshire, UK.
+Freelance full-stack web developer. Based in Hampshire, UK.
 
 I build bespoke web platforms and business systems. One developer doing
 the work — no account managers, no junior devs deleting your database,
-no agency markup.
+no agency inflating your budgets and outsourcing.
 
 ### What I do
 - **Laravel** for the bespoke stuff Excel can't handle
 - **Shopify** for storefronts
-- - **WordPress** for content-led sites
+- **Customised WordPress** for content-led sites
 
 Coming up fast on 20 years writing production code, mostly PHP. The unfashionable engine
 young developers love to hate (which quietly keeps most of the internet running).
