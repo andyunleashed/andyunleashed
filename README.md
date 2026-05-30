@@ -22,8 +22,8 @@ young developers love to hate (which quietly keeps most of the internet running)
 
 ### Find me
 
-- 🌐 [unleash-it.co.uk](https://unleash-it.co.uk)
-- 📧 hello@unleash-it.co.uk
-- 📞 02380 970 430
+- [unleash-it.co.uk](https://unleash-it.co.uk)
+- hello@unleash-it.co.uk
+- 02380 970 430
 
 **200+ projects delivered. Still answering the phone.**
